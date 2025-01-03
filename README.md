@@ -17,4 +17,3 @@ Rich Text Editor: Integration with popular Rich Text Editors like Draft.js or Qu
 
 Deployment: vercel.
 
-
